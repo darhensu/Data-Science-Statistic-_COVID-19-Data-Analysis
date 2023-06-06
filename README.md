@@ -4,5 +4,5 @@ In the big assignment for the Data Science Statistics course, the dataset used i
 There are 4 discussion chapters in the large assignment report for the Data Science Statistics (SSD) course:
 1. Data Wrangling
 2. Data Visualization 
-3. 3. Data Processing 4
-4. . Implementation Model
+3. Data Processing 
+4. Implementation Model
